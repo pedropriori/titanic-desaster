@@ -2,7 +2,7 @@
 
 Bem vindo!
 
-Esté é meu trabalho de **Análise e tomada de decisões** na qual precisamos quem sobreviveu ao **desastre do Titanic** através de várias análises.
+Esté é meu trabalho de **Análise e tomada de decisões** na qual precisamos descobrir quem sobrevive ao **desastre do Titanic** através de várias análises.
 
 ## Breve história do Titanic
 
